@@ -1,0 +1,5 @@
+﻿     Creating library c:\Users\tienn\documents\visual studio 2017\Projects\TinhToan\Debug\TinhToanTest.lib and object c:\Users\tienn\documents\visual studio 2017\Projects\TinhToan\Debug\TinhToanTest.exp
+unittest1.obj : error LNK2019: unresolved external symbol "public: __thiscall ToanTu::ToanTu(void)" (??0ToanTu@@QAE@XZ) referenced in function "public: void __thiscall TinhToanTest::UnitTest1::TestMethod2(void)" (?TestMethod2@UnitTest1@TinhToanTest@@QAEXXZ)
+unittest1.obj : error LNK2019: unresolved external symbol "public: __thiscall ToanTu::~ToanTu(void)" (??1ToanTu@@QAE@XZ) referenced in function "public: void __thiscall TinhToanTest::UnitTest1::TestMethod2(void)" (?TestMethod2@UnitTest1@TinhToanTest@@QAEXXZ)
+unittest1.obj : error LNK2019: unresolved external symbol "public: int __thiscall ToanTu::cong(int,int)" (?cong@ToanTu@@QAEHHH@Z) referenced in function "public: void __thiscall TinhToanTest::UnitTest1::TestMethod2(void)" (?TestMethod2@UnitTest1@TinhToanTest@@QAEXXZ)
+c:\Users\tienn\documents\visual studio 2017\Projects\TinhToan\Debug\TinhToanTest.dll : fatal error LNK1120: 3 unresolved externals
